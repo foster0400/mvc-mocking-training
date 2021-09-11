@@ -4,14 +4,14 @@
   "previous": null,
   "results": [
     {
-      "title": "Judul Film Pertama",
+      "title": "Judul Film Pertama--MOCK",
       "episode_id": 4,
       "created": "2014-12-10T14:23:31.880000Z",
       "edited": "2014-12-20T19:49:45.256000Z",
       "url": "https://swapi.dev/api/films/1/"
     },
     {
-      "title": "Judul Film Kedua",
+      "title": "Judul Film Kedua--MOCK",
       "episode_id": 1,
       "created": "2014-12-10T14:23:31.880000Z",
       "edited": "2014-12-20T19:49:45.256000Z",
